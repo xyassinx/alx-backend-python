@@ -1,7 +1,8 @@
 # 📬 Messaging API with Django & DRF
 
-This project is a fully functional **messaging application** backend built using **Django** and **Django REST Framework (DRF)**. It demonstrates the complete lifecycle of building scalable, secure, and RESTful APIs including model design, serialization, viewsets, and nested routing using best practices.
+
 ---
+
 ## 📌 Features
 
 - ✅ Custom user model with UUIDs and extended fields (phone number, etc.)
@@ -30,6 +31,9 @@ messaging_app/
 ├── db.sqlite3 # SQLite database
 ├── manage.py
 └── README.md
+
+yaml
+Copy code
 
 ---
 
@@ -116,3 +120,17 @@ Nesting APIs using NestedDefaultRouter
 
 DRF ViewSets and Serializers
 
+Following RESTful conventions and Django best practices
+
+🤝 Contributing
+This project was built as part of the ALX backend engineering track. Contributions, suggestions, and feedback are welcome!
+
+📜 License
+This project is licensed under the MIT License.
+
+🙌 Acknowledgments
+Django Docs
+
+DRF Docs
+
+DRF Nested Routers
